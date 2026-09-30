@@ -3,8 +3,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "reproduce": "node scripts/options-asterisk.mjs"
+    "start": "next start"
   },
   "dependencies": {
     "next": "canary",
